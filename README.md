@@ -1,1 +1,11 @@
 # Портфолио проектов по анализу данных | Яндекс Практикум
+
+| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1.   | [Исследовательский анализ рынка общественного питания Москвы](https://github.com/archi314/Data_Analytics_Projects/tree/main/Research_of_the_catering_market) | Выявление ключевые особенности рынка общепита Москвы | Python, Pandas, Matplotlib       |
+| 2.   | [Анализ рынка стартапов](https://github.com/archi314/Data_Analytics_Projects/tree/main/Startup_market_research) | Анализ закономерностей финансирования стартапов и оценка перспектив выхода на рынок с покупкой и развитием компаний | Python, Pandas, Matplotlib |
+| 3.   | [Исследование развития игровой индустрии](https://github.com/archi314/Data_Analytics_Projects/tree/main/Video_game_market_analysis) | Исследование исторических данных о продажах игр, платформах, жанрах и оценках пользователей и критиков | Python, Pandas |
+| 4.   | [Анализ рынка жилой недвижимости](https://github.com/archi314/Data_Analytics_Projects/tree/main/Real_estate_market_analysis) | Выявление наиболее перспективных сегментов для открытия офиса и формирование эффективной бизнес-стратегии | SQL, DataLens |
+| 5.   | [Анализ внутриигровых покупок](https://github.com/archi314/Data_Analytics_Projects/tree/main/Fantasy_game_analysis) | Изучение влияния характеристик игроков и их игровых персонажей на покупку внутриигровой валюты, а также оценка активности пользователей при совершении внутриигровых покупок | SQL |
+| 6.   | [Анализ бизнес-метрик сервиса доставки еды](https://github.com/archi314/Data_Analytics_Projects/tree/main/Food_delivery_service_metrics) | Анализ DAU, Conversion Rate, среднего чека, LTV, Retention Rate для выявления закономерностей, аномалий и выработки рекомендаций. | DataLens, QL-чарты, Продуктовые метрики |
+| 7.   | [Анализа конференций TED](https://github.com/archi314/Data_Analytics_Projects/tree/main/TED_conference_dashboard) | Разработка дашборда в DataLens, который позволяет исследовать ключевые метрики | DataLens |
