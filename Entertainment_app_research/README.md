@@ -19,4 +19,4 @@
 - Pandas - загрузка, обработка и агрегация данных
 - Matplotlib - визуализация данных
 - Scipy.stats - статистический тест (z-test)
-- **Среда выполнения**: Jupyter Notebook.    
+- Среда выполнения: Jupyter Notebook.    
